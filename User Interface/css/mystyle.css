@@ -1,0 +1,44 @@
+﻿.titel {
+    color: white;
+}
+
+span.titel {
+    margin-left: 1em;
+}
+
+i.titel {
+    font-size: 1.2em;
+}
+
+.spacer {
+    height: 100px;
+}
+
+.small-spacer {
+    height: 40px;
+}
+
+table {
+    width: 100%;
+    border: none;
+}
+
+table td, table th {
+    border: none;
+    padding: 8px 15px;
+}
+
+table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #AEA79F;
+    color: white;
+}
+
+table td {
+    border-bottom: 1px solid #AEA79F;
+}
+
+.feedback {
+    padding: 0.375rem 0.75rem;
+}
